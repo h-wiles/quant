@@ -1,6 +1,6 @@
 import baostock as bs
 import pandas as pd
-
+import numpy as np
 
 lg = bs.login()
 # 显示登陆返回信息
